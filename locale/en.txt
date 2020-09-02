@@ -1,0 +1,83 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Una propiedad de ensueño en el mejor barrio cerrado de Asunción.
+
+### Title
+tour.name = Rakiura - Magnífica Residencia
+
+## Skin
+
+### Button
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PERSPECTIVAS
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PERSPECTIVAS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = CONTACTO
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = CONTACTO
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = FOTOS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = FOTOS
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = UBICACIÓN
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = UBICACIÓN
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = WhatsApp
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = WhatsApp
+
+### Multiline Text
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.47vh;font-family:'Arimo';"><B>Residencia en</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.47vh;font-family:'Arimo';"><B>Rakiura Country</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.12vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:5vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.13vh;font-family:'Bebas Neue Bold';">En el barrio privado más seguro y codiciado de Asunción. La zona del más alto nivel y de una comunidad excelente.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.36vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:5vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.91vh;">Superficie construida de </SPAN><SPAN STYLE="font-size:2.91vh;"><B>600m2.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.57vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:5vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.91vh;"><B>Planta alta:</B></SPAN><SPAN STYLE="font-size:2.91vh;"> 4 dormitorios en suite con piso de madera de lapacho trabajado, el dormitorio matrimonial con vestidor y baño con hidromasaje, amplia terraza con parrilla y kichenette.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.57vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:5vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.91vh;"><B>Planta Baja: </B></SPAN><SPAN STYLE="font-size:2.91vh;">Amplio living comedor social, comedor y estar diario integrado de 15x9 mts aprox, sala de cine, gimnasio, doble piscina con deck de madera, quincho equipado con vinero y visicooler, cocina equipada y amoblada, sauna a vapor, hermoso jardín, cochera para 4 vehículos, </SPAN><SPAN STYLE="font-size:2.91vh;"><I>Incluye todos los beneficios del club Rakiura</I></SPAN><SPAN STYLE="font-size:2.91vh;">.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vh;font-family:'Bebas Neue Bold';"><B>Residencia en</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vh;font-family:'Bebas Neue Bold';"><B>Rakiura Country</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.1vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.89vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.28vh;font-family:'Bebas Neue Bold';">En el barrio privado más seguro y codiciado de Asunción. La zona del más alto nivel y de una comunidad excelente.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.89vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.85vh;">Superficie construida de </SPAN><SPAN STYLE="font-size:2.85vh;"><B>600m2.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.89vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.85vh;"><B>Planta alta:</B></SPAN><SPAN STYLE="font-size:2.85vh;"> 4 dormitorios en suite con piso de madera de lapacho trabajado, el dormitorio matrimonial con vestidor y baño con hidromasaje, amplia terraza con parrilla y kichenette.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.54vh;"><BR STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.89vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.85vh;"><B>Planta Baja: </B></SPAN><SPAN STYLE="font-size:2.85vh;">Amplio living comedor social, comedor y estar diario integrado de 15x9 mts aprox, sala de cine, gimnasio, doble piscina con deck de madera, quincho equipado con vinero y visicooler, cocina equipada y amoblada, sauna a vapor, hermoso jardín, cochera para 4 vehículos, </SPAN><SPAN STYLE="font-size:2.85vh;"><I>Incluye todos los beneficios del club Rakiura</I></SPAN><SPAN STYLE="font-size:2.85vh;">.</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:5vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Arimo';">PERSPECTIVAS</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:5vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Arimo';">PERSPECTIVAS</SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_4868474A_5066_7F7D_41AC_28BCE07E31B8.label = Álbum de Fotos
+panorama_47588C8D_4C16_ADD6_41D0_2A06430E7F1A.label = Sala de Cine - Luz Tenue
+panorama_475C9939_4C12_773F_418D_8C3F7D53D2DA.label = Balcón - Habitación Master
+panorama_475D949B_4C12_9DF3_4192_968EA5FFD756.label = Escalera - Entrepiso
+panorama_475DC811_4C15_94CF_41AB_229107954A38.label = Deck - Piscina
+panorama_478173AF_4C15_9BD2_41AE_B302FEAF4AAC.label = Quincho - Piscinas
+panorama_478D447F_4C13_9D33_41C3_2607B0A8ED70.label = Baño - Habitación Master
+panorama_478D58DC_4C15_9576_41C4_AC665A6486C7.label = Pasillo Acceso a Parrilla
+panorama_478DFE3B_4C12_AD33_41B0_C9D267AB2FC5.label = Planta Alta - Quincho con Parrilla
+panorama_47A6542A_4C16_7CD2_41C6_8810A290DC4A.label = Quincho
+panorama_47B761AE_4C13_97D5_41CB_DC747C2DBA80.label = Planta Alta - Estar Diario
+panorama_50183A25_5C8D_2629_41D5_8882BBB17BB8.label = Sala de Cine - Fondo
+panorama_50E2570A_5C8D_6FFA_41D0_57AA9C231FCC.label = Comedor - Vista Nocturna
+panorama_50E2EDD0_5C8D_E266_4183_430FF57F8DA6.label = Sala de Cine - Frente
+panorama_50FC8390_5C8D_E6E6_4196_F4469B769C80.label = Habitación Frontal con Balcón
+panorama_52FC661E_5C8D_2E1A_41B6_337362F0397F.label = Balcón - Habitación Frontal
+panorama_58B8D424_4CF2_9CD5_41C3_FDDD3E76A48A.label = Sala de Cine - Punto Medio
+panorama_5A7336F9_5742_43D8_419A_CC9FEECAAA12.label = Calle - Entrada
+panorama_5D061EA3_4C12_EDD2_418E_B1D2CE363223.label = Sala - Centro
+panorama_5DE40688_4C36_9DDD_41C0_DB62F1568753.label = Sala - Living
+panorama_5E1F0519_4C3D_9CFF_41AE_C0A12D287A64.label = Cocina
+panorama_5E43600B_4C16_74D3_41C9_0835704A9354.label = Sala - Comedor
+panorama_5E4E18DB_4C36_B572_41C5_F38F1EA369C6.label = Escritorio
+panorama_5E9E5DBB_4C32_AF32_41CF_3DD84D2EA3B4.label = Quincho - Parrilla
+panorama_5F273F3F_4C13_EB33_41C9_E24BD6D11CE4.label = Planta Alta - Habitación
+panorama_5FAC4DD2_4C13_AF4D_41A6_7511AFA7D383.label = Planta Alta - Habitación Master
+panorama_77CCDF03_7A3D_D95A_41CE_84C9CE968466.label = Habitación Master - Vestidor
+video_4DC63883_564D_77EF_41D3_729FE9100318.label = cascada 5
+video_6F1B8249_60DF_EE01_41BF_FD4E601538CE.label = SALA DE CINE INTRO 2
+video_7340C746_56DD_5968_41D3_39B2A98F9F24.label = cut for paste 5
+video_76BF82AE_56C2_FB39_41D0_DF287E74780C.label = cascada toma piscinas
+
+## Popup
+
+### Title
+window_6488952A_6A77_0255_41D2_191A23035B16.title = Álbum de Fotos
+window_73465F18_502E_CF1D_41D3_CDAB91BFC330.title = Álbum de Fotos
+
+## Action
+
+### URL
+LinkBehaviour_46B208F6_4B69_0FF3_41C7_8B6776C0844D.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20la%20residencia%20en%20Rakiura.%20Me%20gust%C3%B3%20el%20recorrido%20y%20quisiera%20conocerlo%20en%20persona.
+LinkBehaviour_46B248F6_4B69_0FF3_4186_54EC187A7C7F.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20la%20residencia%20en%20Rakiura.%20Me%20gust%C3%B3%20el%20recorrido%20y%20quisiera%20conocerlo%20en%20persona.
+LinkBehaviour_46B268F6_4B69_0FF3_4191_239D06ACF45C.source = https://api.whatsapp.com/send?phone=595981439393&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20la%20residencia%20en%20Rakiura.%20Me%20gust%C3%B3%20el%20recorrido%20y%20quisiera%20conocerlo%20en%20persona.
+LinkBehaviour_46B278F6_4B69_0FF3_41AF_A47BBF74A888.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20la%20residencia%20en%20Rakiura.%20Me%20gust%C3%B3%20el%20recorrido%20y%20quisiera%20conocerlo%20en%20persona.
+LinkBehaviour_46B338F6_4B69_0FF3_41C4_79240C52E55A.source = https://api.whatsapp.com/send?phone=595981439393&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20la%20residencia%20en%20Rakiura.%20Me%20gust%C3%B3%20el%20recorrido%20y%20quisiera%20conocerlo%20en%20persona.
+LinkBehaviour_46B3B8F6_4B69_0FF3_41C1_EB18BF2E5BC0.source = https://api.whatsapp.com/send?phone=595981439393&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20la%20residencia%20en%20Rakiura.%20Me%20gust%C3%B3%20el%20recorrido%20y%20quisiera%20conocerlo%20en%20persona.
+LinkBehaviour_46B3D8F6_4B69_0FF3_41B6_30CE76147517.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20de%20la%20residencia%20en%20Rakiura.%20Me%20gust%C3%B3%20el%20recorrido%20y%20quisiera%20conocerlo%20en%20persona.
